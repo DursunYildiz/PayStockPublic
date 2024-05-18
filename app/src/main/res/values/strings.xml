@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">PayStock</string>
+    <string name="title_activity_renter_code">RenterCodeActivity</string>
+    <string name="title_activity_main">MainActivity</string>
+</resources>
